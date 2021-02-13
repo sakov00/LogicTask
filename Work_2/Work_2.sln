@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_2", "Work_2\Work_2.csproj", "{75811F0B-D399-4374-BC6C-DEB761559400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_2.2", "Work_2.2\Work_2.2.csproj", "{32712958-B62E-4A56-BFDA-615EDEC01E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_2.3", "Work_2.3\Work_2.3.csproj", "{38C4FBF9-BB42-427F-9336-164B20DC5F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75811F0B-D399-4374-BC6C-DEB761559400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75811F0B-D399-4374-BC6C-DEB761559400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75811F0B-D399-4374-BC6C-DEB761559400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75811F0B-D399-4374-BC6C-DEB761559400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32712958-B62E-4A56-BFDA-615EDEC01E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32712958-B62E-4A56-BFDA-615EDEC01E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32712958-B62E-4A56-BFDA-615EDEC01E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32712958-B62E-4A56-BFDA-615EDEC01E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C4FBF9-BB42-427F-9336-164B20DC5F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C4FBF9-BB42-427F-9336-164B20DC5F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C4FBF9-BB42-427F-9336-164B20DC5F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C4FBF9-BB42-427F-9336-164B20DC5F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9E569B-BC12-4A4B-AC04-B97496312756}
+	EndGlobalSection
+EndGlobal
